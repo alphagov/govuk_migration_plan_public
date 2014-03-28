@@ -26,3 +26,5 @@
 
 * Can we sign in to EFG
 * Does data look sane
+
+Next Steps: [6_enable_external_access.md](6_enable_external_access.md) 
