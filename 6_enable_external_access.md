@@ -8,3 +8,5 @@
 ### Enable access to Licensify
 
 * Start the licensify-frontend application on licensify-frontend servers
+
+Next Steps: [7_monitor_for_regressions.md](7_monitor_for_regressions.md) 

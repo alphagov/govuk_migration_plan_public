@@ -13,5 +13,8 @@
 * Make all the remaining changes as outlined in [ANNEX_A_list_of_dns_records.md]
 * Confirm that backend traffic reaches new platform from GDS
 
+Next Steps: [5_test_all_the_things.md](5_test_all_the_things.md) 
+
+
 
 
