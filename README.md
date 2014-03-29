@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the plan for migrating the GOV.UK web stack from the Skyscape **Interim Platform** to Skyscape's new **Platform 1**. The original plan is still held on our internal github repo, however this version (with sanitised IPs, Domains and Girhub Repos) has been released publicly after the fact.
+This is the plan for migrating the GOV.UK web stack from the Skyscape's **interim platform** to Skyscape's new **Platform 1**. The original plan is still held on our internal GitHub repo, however this version (with sanitised IPs, domains and GitHub repos) has been released publicly after the fact.
 
 ## Migration Plan
 
@@ -20,8 +20,8 @@ The migration plan is a series of [Markdown](https://help.github.com/articles/ma
 
 ## Outstanding questions
 
-* -How do we synchronise web site support feedback tickets?-
-  * The `support_contacts` database is now part of the automatd job
-* -Do we accept that we might lose some end-user feedback during the migration?-
-  * We will only lose anonymous feedback statistics and Transaction done surveys.
+* How do we synchronise web site support feedback tickets?
+  * The `support_contacts` database is now part of the automated job.
+* Do we accept that we might lose some end-user feedback during the migration?
+  * We will only lose anonymous feedback statistics and Transaction Done surveys.
   * No Zendesk tickets will be lost.
