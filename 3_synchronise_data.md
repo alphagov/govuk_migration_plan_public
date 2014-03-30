@@ -4,7 +4,7 @@
 
 * https://deploy.jenkins/job/Copy_Data_to_P1_Production/
 
-### Ensure that the following sections completed without errors:
+### Ensure that the following jobs complete without errors:
 
 * Copy of MySQL databases for Backend Applications
 * Copy of Mongo databases for Backend Applications
