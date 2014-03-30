@@ -1,4 +1,4 @@
-## Monitor for regressions / followup
+## Monitor for regressions / follow-up
 
 ### Review monitoring alerts
 
