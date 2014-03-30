@@ -2,8 +2,8 @@
 
 ### Revert firewall rule changes
 
-* Revert firewall changes in "Block access via the VSE Firewall to Platform 1" section of [2_disable_external_access.md]
-* Revert firewall changes in "Allow access from GDS" section of [2_disable_external_access.md]
+* Revert firewall changes in "Block access via the vSE Firewall to Platform 1" section of [2_disable_external_access.md](2_disable_external_access.md)
+* Revert firewall changes in "Allow access from GDS" section of [2_disable_external_access.md](2_disable_external_access.md)
 
 ### Enable access to Licensify
 
