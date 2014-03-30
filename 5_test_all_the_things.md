@@ -13,18 +13,18 @@
 
 ### Test that publishing works
 
-* Can we access Publisher
-* Can we access Whitehall publisher
-* Can we access Travel Advice publisher
+* Can we access Publisher?
+* Can we access Whitehall publisher?
+* Can we access Travel Advice publisher?
 
 ### Licensify
 
-* Can we access Licensify Admin
-* Does applying for a test license work
+* Can we access Licensify Admin?
+* Does applying for a test license work?
 
 ### EFG
 
-* Can we sign in to EFG
-* Does data look sane
+* Can we sign in to EFG?
+* Does data look sane?
 
 Next Steps: [6_enable_external_access.md](6_enable_external_access.md) 
