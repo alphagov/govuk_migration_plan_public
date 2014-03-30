@@ -5,15 +5,15 @@
 * Assess the state of the project - will we be ready?
 * Decide on the people we need to do the migration - are they available?
 * Do we have reasonable backup people in place (or necessary redundancy)?
-* Communicate to GDS
-* Communicate to Departments (via SPoCs)
+* Communicate to GDS staff
+* Communicate to Departments via their assigned point of contact
 
 ### T-7 Days
 
 * Assess the state of the project - will we still be ready?
 * Confirm that we have the necessary people in place
-* Communicate to GDS (again)
-* Communicate to Departments (again) - via SPoCs
+* Communicate to GDS staff (again)
+* Communicate to Departments via their assigned point of contact (again)
 * Block out the release calendar for:
  * T-1 Days
  * T-0 Days
@@ -29,10 +29,10 @@
 
 ### T-1 Days
 
-* Final reminder to GDS
-* Final reminder to Departments
+* Final reminder to GDS staff
+* Final reminder to Departments via their assigned point of contact
 * Review application versions - are they in sync across platforms?
-* Review data sync - how long did it take, are we confident it will succeed tonight?
+* Review data sync - how long did it take? Are we confident it will succeed tonight?
 * Review Smokey and Nagios on Platform 1 - is everything green?
 
 ### T-0 Days
