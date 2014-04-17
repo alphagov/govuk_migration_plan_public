@@ -7,16 +7,16 @@
 
 ### Block access via the VSE Firewall to Interim Platform
 
-* [Backend Load Balancer](https://internal.github/gds/vcloud-provisioner/blob/master/edgegateway/production/firewall.rb#L21-L29)
-* [EFG](https://internal.github/gds/vcloud-provisioner/blob/master/edgegateway/production/firewall.rb#L36-L44)
-* [Licensify Admin](https://internal.github/gds/vcloud-provisioner/blob/master/edgegateway/production/firewall.rb#L46-L54)
-* [Licensify Upload](https://internal.github/gds/vcloud-provisioner/blob/master/edgegateway/production/firewall.rb#L46-L54)
+* Backend Load Balancer
+* EFG
+* Licensify Admin
+* Licensify Upload
 
 ### Block access via the VSE Firewall to Platform 1
 
-* [Backend Load Balancer](https://internal.github/gds/govuk-provisioning/blob/master/networking/common/firewall.rb#L40-L48)
-* [EFG](https://internal.github/gds/govuk-provisioning/blob/master/networking/common/firewall.rb#L55-L63)
-* [Licensify Admin/Upload](https://internal.github/gds/govuk-provisioning/blob/master/networking/common/firewall.rb#L65-L73)
+* Backend Load Balancer
+* EFG
+* Licensify Admin/Upload
 
 ### Allow access from GDS
 
