@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the plan for migrating the GOV.UK web stack from the Skyscape **Interim Platform** to Skyscape's new **Platform 1**. The original plan is still held on our internal github repo, however this version (with sanitised IPs, Domains and Girhub Repos) has been released publicly after the fact.
+This is the plan for migrating the GOV.UK web stack from the Skyscape **Interim Platform** to Skyscape's new **Platform 1**. The original plan is still held on our internal github repo, however this version (with sanitised IPs, Domains and Github Repos) has been released publicly after the fact.
 
 ## Migration Plan
 
